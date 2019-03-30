@@ -100,3 +100,12 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+TravisCI
+=========
+.. image:: https://travis-ci.org/zulkazz/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/zulkazz/se_hello_printer_app
+
+Status Cake
+=========
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=immThfahb1&Days=1&Design=1" /></a>
